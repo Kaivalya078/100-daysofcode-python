@@ -1,0 +1,26 @@
+Project Name: Band Name Generator
+Project Description:
+This is a beginner-friendly project designed to demonstrate the use of basic Python input/output operations. The program takes two inputs from the user (the name of their city and their pet's name) and combines them to generate a fun and unique band name.
+
+Key Features:
+*User Input:
+
+Prompts the user for the city they grew up in.
+Asks for their pet's name.
+
+*String Concatenation:
+
+Combines the two inputs into a single string to form the band name.
+
+*Output:
+
+Displays the generated band name using a clear and friendly message.
+
+>print() Function:
+Used to display messages or results to the user.
+
+>input() Function:
+Captures user input as a string.
+
+>String Concatenation (+):
+Combines strings to form the final band name.
