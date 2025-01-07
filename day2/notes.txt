@@ -1,0 +1,28 @@
+Project Name: Tip Calculator
+Project Description:
+This project calculates the total bill amount including a tip and splits it among a specified number of people. It demonstrates basic mathematical operations, user input, and the concept of type conversion in Python.
+
+Key Features:
+User Input:
+
+Captures the total bill amount.
+Takes the desired tip percentage.
+Asks for the number of people to split the bill.
+Mathematical Calculations:
+
+Calculates the total bill including the tip.
+Divides the total bill among the specified number of people (optional enhancement).
+Output:
+
+Displays the calculated total bill with tip.
+
+float() Function:
+Converts user input into a floating-point number to handle decimal values (e.g., bill amount).
+
+int() Function:
+Converts user input into an integer for whole numbers (e.g., tip percentage and number of people).
+
+Mathematical Operations:
+
+1 + tip / 100: Converts the tip percentage into a multiplier.
+bill * (1 + tip / 100): Calculates the total bill with the tip.
