@@ -1,0 +1,18 @@
+Project Name: Treasure Island Game
+Project Description:
+This is an interactive text-based adventure game where the player makes decisions to navigate through a series of challenges. The ultimate goal is to find the treasure. The game uses conditional statements to determine the outcomes of the player's choices.
+
+Key Features:
+ASCII Art Display:
+
+Introduces the game with an appealing ASCII art representation to create a visual impact.
+Player Interaction:
+
+Players make choices at various points by typing responses (e.g., "left", "wait").
+The game responds dynamically based on the player's decisions.
+Conditional Logic:
+
+Utilizes nested if-elif-else statements to create multiple decision paths and outcomes.
+End States:
+
+The game concludes when the player either finds the treasure or encounters a "Game Over" scenario.
