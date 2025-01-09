@@ -1,0 +1,20 @@
+Project Name: Rock, Paper, Scissors Game
+Project Description:
+This is an interactive console-based game where a user plays "Rock, Paper, Scissors" against the computer. The game uses ASCII art to display choices, incorporates randomness for the computer's choice, and evaluates the outcome using conditional logic.
+
+Key Features:
+User Interaction:
+
+Allows the user to input their choice (0 for Rock, 1 for Paper, 2 for Scissors).
+Randomized Computer Choice:
+
+Uses Python's random module to generate a random choice for the computer.
+ASCII Art:
+
+Displays visually appealing ASCII representations of Rock, Paper, and Scissors based on choices.
+Game Logic:
+
+Compares user and computer choices to determine the winner, loser, or a draw.
+Input Validation:
+
+Handles invalid inputs gracefully and displays a message to the user.
