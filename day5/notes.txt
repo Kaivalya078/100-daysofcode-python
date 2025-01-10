@@ -1,0 +1,18 @@
+Project Name: PyPassword Generator
+Project Description:
+This program generates a secure and randomized password based on user specifications for the number of letters, symbols, and numbers. It uses Python's random module to ensure randomness and combines elements into a strong password.
+
+Key Features:
+User Interaction:
+
+Asks the user for the number of letters, symbols, and numbers they want in their password.
+Randomization:
+
+Uses the random.choice() method to select random characters.
+Shuffles the characters for added security.
+Flexible Password Composition:
+
+Allows the user to customize the composition of their password.
+Password Display:
+
+Outputs the generated password for the user.
