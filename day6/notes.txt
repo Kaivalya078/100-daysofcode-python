@@ -1,0 +1,14 @@
+Project Name: Simple Calculator
+Project Overview:
+This program performs basic arithmetic operations like addition, subtraction, multiplication, and division based on user input. The code is modularized using functions for each operation.
+
+Project Features:
+User Interaction:
+
+Prompt the user to choose an operation and provide two numbers.
+Functions for Each Operation:
+
+Functions for addition, subtraction, multiplication, and division.
+Error Handling:
+
+Handle invalid inputs and division by zero gracefully.
