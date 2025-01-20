@@ -1,0 +1,23 @@
+Notes for Hangman Game Code
+Project Overview
+This project is a Python implementation of the classic Hangman game. The game challenges the player to guess a randomly chosen word one letter at a time, with a limited number of incorrect guesses (lives) before the game ends.
+
+Key Features
+Random Word Selection:
+
+The game selects a random word from word_list using the random.choice() method.
+Player Feedback:
+
+The current state of the word is displayed with underscores (_) for unguessed letters.
+Visual feedback for the remaining lives is provided using stages from hangman_art.
+Lives System:
+
+The player has 6 lives. Each incorrect guess reduces the lives by one.
+The game ends when lives reach 0 or the word is fully guessed.
+Repeated Guesses:
+
+Tracks letters that have already been guessed and provides a warning for repeated guesses.
+Win/Lose Conditions:
+
+Displays a win message if the word is guessed correctly.
+Displays a loss message with the correct word if the player runs out of lives.
