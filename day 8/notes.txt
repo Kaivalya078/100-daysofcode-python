@@ -1,0 +1,21 @@
+Notes for Caesar Cipher Program
+Project Overview
+This Python project is an implementation of the Caesar Cipher, a basic encryption technique that shifts letters in the alphabet by a given number of positions. The program allows users to both encrypt and decrypt messages.
+
+Key Features
+Encryption & Decryption:
+
+Users can input text and shift values to encode or decode messages.
+Non-alphabet characters (e.g., spaces, numbers, symbols) remain unchanged.
+Loop for Continuous Execution:
+
+The program runs in a loop, allowing users to encode/decode multiple messages.
+The user can exit the program by typing "no".
+Modular Code with Functions:
+
+The caesar() function handles both encryption and decryption.
+Uses a simple logic: right shift for encoding and left shift for decoding.
+User Input Handling:
+
+Takes user input for message, shift amount, and encryption/decryption choice.
+Ensures letters wrap around when shifting beyond 'z' (using modulus %).
